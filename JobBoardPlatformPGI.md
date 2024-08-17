@@ -1,10 +1,10 @@
 Project General Information
-Group Name: GROUP NAME Project Title: SYSTEM NAME
+Group Name: JOBFINDER Project Title: JOB BOARD PLATFORM
 
 A. Problem Statement:
 B. Project Description:
 C. Project Objectives:
-To develop a SYSTEM_NAME APP that will help manage the ______ with the following features: 1. 2. 3. 4. ..
+To develop a JOB BOARD PLATFORM that will help manage the hiring process with the following features: 1. 2. 3. 4. ..
 
 D. Business Benefits:
 ..
