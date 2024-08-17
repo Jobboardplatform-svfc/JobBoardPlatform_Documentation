@@ -1,4 +1,3 @@
-
 Project General Information
 Group Name: JOBFINDER Project Title: JOB BOARD PLATFORM
 
