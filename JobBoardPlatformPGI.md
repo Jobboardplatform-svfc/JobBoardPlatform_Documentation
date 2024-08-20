@@ -28,11 +28,11 @@ To develop a JOB BOARD PLATFORM with a comprehensive and efficient solution that
 8. Focus on creating a user-friendly design and responsiveness so that the website can quickly navigate on both desktop and mobile devices.
 
 ## D. Business Benefits:
-1. 
-2. 
-3. 
-4. 
-..
+1. By automating various aspects of the hiring process, tracking, communication, and filtering of candidates, the platform will greatly reduce the time and effort that employers spend compiling, sorting, and sifting through and communicating with candidates.
+2. Simplifying the recruitment process will lead to savings of cost on hiring which include, advertising costs, costs of recruiting agencies, and time used on manual tasks.
+3. By so doing, the platform will offer businesses access to a wider and more diverse pool of candidates, increasing the probability of recruiting the best-fit candidates for open positions.
+4. The advanced filtering and matching algorithms will align top-quality candidates and help businesses make better hiring decisions and reduce turnover.
+5. The integrated reporting and analytics tools will enable businesses to understand the flow of recruiting in their company as well as come up with possible solutions to the challenges that slow the system down.
 
 ## E. Project Deliverables:
     1. Requirements
