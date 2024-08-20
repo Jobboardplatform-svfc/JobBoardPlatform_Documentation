@@ -17,13 +17,15 @@ Through the user-friendly and efficient system of the JOB BOARD PLATFORM, the ov
 
 ## C. Project Objectives:
 
-To develop a JOB BOARD PLATFORM that will help manage the hiring process with the following features:
-1.
-2.
-3.
-4.
-..
-
+To develop a JOB BOARD PLATFORM with a comprehensive and efficient solution that will help to improve the hiring process for both employers and job seekers with the following features:
+1. Design a user-friendly interface for employers to be able to post, modify, or delete a job post in one click.
+2. Build a solid Application Tracking System (ATS) that enhances the tracking and management of the candidate applications by the employers throughout the recruitment process.
+3. Offer all the necessary resources to job seekers that would enable them to post descriptions of themselves such as writing of resumes, skills, and previous work experience.
+4. Provide advanced effective search and filter tools that allow job seekers to easily select matching jobs based on location, industry, type of position, and other criteria.
+5. Develop individual interfaces where employers can track job posting performance and monitor candidates while job seekers also have application panels to work with applications as well as opportunities and to receive updates.
+6. Addition of communication channels that enable exclusive communications between employers and job seekers, and enable follow-up.
+7. Develop reporting tools that will provide employers with insights into the effectiveness of their job postings, candidate sourcing strategies, as well as the general performance of the recruitment process.
+8. Focus on creating a user-friendly design and responsiveness so that the website can quickly navigate on both desktop and mobile devices.
 
 ## D. Business Benefits:
 1. 
