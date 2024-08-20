@@ -4,7 +4,6 @@ Group Name: JOBFINDER
 Project Title: JOB BOARD PLATFORM
 
 ## A. Problem Statement:
-sdbvjkavjnavj
 
 
 ## B. Project Description:
