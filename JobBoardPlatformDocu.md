@@ -8,7 +8,7 @@ For the job seekers, the JOB BOARD PLATFORM provides accurate job search, advanc
 The JOB BOARD PLATFORM supports businesses of all sizes, from startups to large corporations, and ensures ease of access. Users from all sorts of industries will not find the platform complicated or hard to navigate. The platform not only enables more far-reaching and accurate recruitment, but it also contributes positively to the continued growth of a business due to the recruitment of the right talent.
 
 ## Project Features and Characteristics
-
+The proposed project Job Board Platform consists of the following features and characteristics:
 
 ## Project Scope
 
