@@ -1,8 +1,11 @@
 # JOB BOARD PLATFORM
 
 ## INTRODUCTION
+The JOB BOARD PLATFORM is an advanced concept in recruiting that has been strategically developed for employers and job seekers to enable efficient, and possible, effortless access to the online job marketplace. In today's job market, talent hunting and recruitment is a daunting challenge for businesses, while employees struggle with many available vacancies and application procedures. These concerns are sought to be solved by this platform by creating a centralized hub where employers can post job vacancies, manage applications, and communicating with potential candidates.
 
+For the job seekers, the JOB BOARD PLATFORM provides accurate job search, advanced filtering options, the profile account tools, and easy application. Combined with technologies such as an Application Tracking System (ATS) and real-time analytical tools the platform optimizes the experience from employer searching to applying candidates, and everyone in between.
 
+The JOB BOARD PLATFORM supports businesses of all sizes, from startups to large corporations, and ensures ease of access. Users from all sorts of industries will not find the platform complicated or hard to navigate. The platform not only enables more far-reaching and accurate recruitment, but it also contributes positively to the continued growth of a business due to the recruitment of the right talent.
 
 ## Project Features and Characteristics
 
