@@ -20,7 +20,7 @@ The proposed project Job Board Platform consists of the following features and c
 
 
 ## Work breakdown Structure
-
+![JobFinder](https://github.com/user-attachments/assets/808201cb-8ba3-4112-bac9-371ed8fc1eea)
 
 
 ## Functional Requirements
