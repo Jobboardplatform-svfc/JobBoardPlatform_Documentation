@@ -9,6 +9,9 @@ The JOB BOARD PLATFORM supports businesses of all sizes, from startups to large 
 
 ## Project Features and Characteristics
 The proposed project Job Board Platform consists of the following features and characteristics:
+1. Job Posting and Management - it is very easy for employers to post jobs, job descriptions, and requirements for the job, as well as information about the employers and company - job categorization
+2. Application Tracking System (ATS) - employers can track applicants by different statuses of the recruitment process - applicant sorting and filtering - resume parsing
+3. Candidate Profile Management -  job seekers can put their resume online where they can be seen by employers and create a comprehensive profile that can contain their work experience, skills, certificates, and almost every other thing that an employer would want to know about them - profile updates and enhancements - portfolio and media upload
 
 ## Project Scope
 
