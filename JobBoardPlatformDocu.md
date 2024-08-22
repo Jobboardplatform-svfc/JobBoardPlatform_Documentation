@@ -21,7 +21,7 @@ The proposed project Job Board Platform consists of the following features and c
 ## Project Scope
 The Job Board Platform System aims to develop an effective job platform for employers and employees. This system allows you to upload jobs as an employer or a company looking for workers, which will help make the job application process easier. As a job seeker, you can create your account profile and upload experiences and achievements. The platform also has an Application Tracking System (ATS) that helps employers manage and track applications from start to finish. It makes it easy for them to sort and find the best candidates quickly.
 
-In addition, this system has a communication tool where the employer and employee can talk, which is one of the most important things in the job search process.
+In addition, this system has a communication tool where the employer and employee can talk, which is one of the most important things in the job search process. Apart from its features, it also has a user-friendly interface design that can be easily understood by the user. Lastly, it has reporting and analytics that can provide data on how many employers and employees there are, you can also leave a comment on the companies or employers you have applied to based on your experience.
 
 
 
