@@ -9,9 +9,14 @@ The JOB BOARD PLATFORM supports businesses of all sizes, from startups to large 
 
 ## Project Features and Characteristics
 The proposed project Job Board Platform consists of the following features and characteristics:
-1. Job Posting and Management - it is very easy for employers to post jobs, job descriptions, and requirements for the job, as well as information about the employers and company - job categorization
-2. Application Tracking System (ATS) - employers can track applicants by different statuses of the recruitment process - applicant sorting and filtering - resume parsing
-3. Candidate Profile Management -  job seekers can put their resume online where they can be seen by employers and create a comprehensive profile that can contain their work experience, skills, certificates, and almost every other thing that an employer would want to know about them - profile updates and enhancements - portfolio and media upload
+1. Job Posting and Management - post jobs, job descriptions, and requirements for the job, as well as information about the employers and company - job categorization
+2. Application Tracking System (ATS) - track applicants by different statuses of the recruitment process - applicant sorting and filtering - resume parsing
+3. Candidate Profile Management - put their resume online where they can be seen by employers and create a comprehensive profile that can contain their work experience, skills, certificates, and almost every other thing that an employer would want to know about them - profile updates and enhancements - portfolio and media upload
+4. Advanced Search and Filtering - search for jobs based on keywords, location, industry, and other criteria - personalized recommendations - filter and sort options
+5. Interactive Dashboards - view candidate progress, job seekers’ postings, and track recruitment performance - job seeker dashboard
+6. Communication Tools - instant messaging between employee and employer to help in communication during the hiring process - automated notifications
+7. Reporting and Analytics - job post performance reports, candidate engagement, and hiring efficiency reports for instance - data visualization - job seeker insights
+8. User Experience and Interface Design - work on desktops, tablets, and smartphones, in a completely seamless manner - user-friendly navigation - customizable themes
 
 ## Project Scope
 
