@@ -80,26 +80,7 @@ In addition, this system has a communication tool where the employer and employe
 |     |            |                                                          |    b. Company Name                                                                                                                                            |
 
 ### use case
-
-For the Job Seekers 
-
-	● REGISTER NEW ACCOUNT
-  The job seeker navigates to the registration page, enters personal details (name, email, password), and creates an          account.
-  
-	● CREATE/UPDATE PROFILE
-  After logging in, the job seeker completes their profile by adding a resume, skills, experience, education, and a profile   picture. They can update this information anytime.
-  
-	● UPLOAD RESUME
-  The job seeker uploads their resume in various formats (PDF, Word) and links it to their profile.
-
-  For the Job Employers
-  
-  ● REGISTER NEW ACCOUNT
-  The employer navigates to the registration page, enters company details (company name, email, password), and creates an     account.
-  
-  ● CREATE/UPDATE COMPANY PROFILE
-  After logging in, the employer completes the company profile by adding a logo, company description, and contact             information. They can update this information anytime.
-
+![JobFinder (1)](https://github.com/user-attachments/assets/d9687d93-9425-41d3-ac48-fda41fcd01d2)
 
 ## Database Architecture
 
