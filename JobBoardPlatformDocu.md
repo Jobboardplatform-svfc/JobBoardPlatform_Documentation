@@ -55,6 +55,10 @@ In addition, this system has a communication tool where the employer and employe
 |     |            |                                                          |    e. Contact Number                                                                                                                                        |
 |     |            |                                                          |    f. Profile                                                                                                                                            |
 |     |            |                                                          |    g. Website/ if there is a website                                                                                                                                             |
+|    |   | B. User Management Module - Login                     | 1. The system must allow the                                                                  |
+|     |            |                                                          |    a. Email                                                                                                                                        |
+|     |            |                                                          |    b. Password                                                                                                                                             |
+
 
 ### use case
 
