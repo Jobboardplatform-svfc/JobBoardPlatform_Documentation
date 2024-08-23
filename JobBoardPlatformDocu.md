@@ -100,8 +100,8 @@ For the Job Seekers
 | FIELD NAME | DESCRIPTION                          | DATA TYPE | LENGTH | SAMPLE        |
 |------------|--------------------------------------|-----------|--------|---------------|
 | USER_ID    | Primary key, unique identifier for users        | Int    | 255    | GETGETG2344   |
-| USERNAME     | Username for login    | Varchar    | 255     | cano      |
-| EMAIL    | User's email address           | Varchar   | 255       | cano@gmail.com          |
+| USERNAME     | Username for login    | Varchar    | 255     | idanan      |
+| EMAIL    | User's email address           | Varchar   | 255       | idanan@gmail.com          |
 | PASSWORD_HASH     | Encrypted password        | Varchar      | 255       | $3z$21$f5tHR8f9K7... |
 | ROLE     | User role (e.g., employer, job seeker, admin)        | Enum      |        | employer |
 | CREATED_AT    | Timestamp when the user was created        | Datetime      |        | 2024-08-20 12:34:56 |
