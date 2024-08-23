@@ -56,15 +56,6 @@ In addition, this system has a communication tool where the employer and employe
 |     |            |                                                          |    f. Profile                                                                                                                                            |
 |     |            |                                                          |    g. Website/ if there is a website                                                                                                                                             |
 
-|     |            | B. User Management Module - Login                                          | 2. The system must allow the                                                                                          |
-|     |            |                                                          |    a. Email                                                                                                                                   |
-|     |            |                                                          |    b. Password                                                                                                                              |
-|     |            | C. Job Posting                                     | 3. The system must allow the                                                                                     |
-|     |            |                                                          |    a. Job Details                                                                                                                                           |
-|     |            | D. Company/Job Search                         | 4. The system must allow the                                                                                   |
-|     |            |                                                          |    a. Job Name                                                                                                                                              |
-|     |            |                                                          |    b. Company/Employer Name                                                                                                                                              |
-
 ### use case
 
 For the Job Seekers 
