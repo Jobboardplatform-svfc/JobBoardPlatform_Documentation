@@ -107,9 +107,19 @@ For the Job Seekers
 | CREATED_AT    | Timestamp when the user was created        | Datetime      |        | 2024-08-20 12:34:56 |
 | UPDATED_AT    | Timestamp when the user data was last updated        | Datetime      |        | 2024-08-21 08:45:12 |
 
-### Table 2: LIBRARIAN
+### Table 2: JOB_POSTINGS
 
-
+| FIELD NAME | DESCRIPTION                          | DATA TYPE | LENGTH | SAMPLE        |
+|------------|--------------------------------------|-----------|--------|---------------|
+| JOB_ID    | Primary key, unique identifier for job postings        | Int    | 255    | HFQHFQH3455   |
+| EMPLOYER_ID     | Foreign key, references Users (employer)    | Int    | 255     | IGRIGRI4566      |
+| JOB_TITLE    | Title of the job           | Varchar   | 255       | Software Engineer          |
+| JOB_DESCRIPTION     | Detailed description of the job        | Text      |        | We are looking for a skilled developer... |
+| LOCATION     | Location of the job        | Varchar      | 255       | Philippines, Caloocan City |
+| CATEGORY    | Job category or industry        | Varchar      | 255       | Information Technology |
+| SALARY_RANGE    | Salary range for the position        | Varchar      | 255       | ₱45,000 - ₱65,000 |
+| CREATED_AT    | Timestamp when the job was posted        | Datetime      |        | 2024-08-20 09:15:30 |
+| UPDATED_AT    | Timestamp when the job posting was last updated        | Datetime      |        | 2024-08-21 10:00:00 |
 
 ### Table 3: BORROWER
 
