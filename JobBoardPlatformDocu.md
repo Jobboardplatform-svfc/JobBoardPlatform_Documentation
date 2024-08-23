@@ -137,6 +137,9 @@ In addition, this system has a communication tool where the employer and employe
 
 ## ERD
 
+For Best View
+https://www.figma.com/design/EL79YoOrtIXk6J8amDWd9f/Job-Board-Platform-ERD?node-id=0-1&t=SDuRRF0TVtsGurNl-0
+
 ![Job Board Platform ERD](https://github.com/user-attachments/assets/c9ece665-a5ac-47dd-a572-7d7bd1ae0a42)
 
 
