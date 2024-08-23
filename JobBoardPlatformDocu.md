@@ -95,65 +95,17 @@ For the Job Seekers
 ## Database Architecture
 
 ### Data Dictionary
+### Table 1: USERS
 
-Job Seeker
-
-job_seeker_id	               	
-Each have unique identifier for all the job seekers.
-
-first_name
-First name
-
-last_name   
-Last name
-
-email	  
-Email address
-
-password
-Password
-
-resume	  
-Resume(file, docx, pdf)
-
-location
-Job seeker’s location
-
-skills
-List of all skills
-
-experience	
-List of previous experiences
-
-education
-List of educational qualifications
-
-Job Employer/Company
-
-company_id
-Unique identifier for the company
-
-name	
-Company name
-
-description
-Company description
-
-industry
-Industry the company belongs to
-
-location
-Company location
-
-website	    
-Company website
-
-logo	
-Company logo (image)
-
-### Table 1: ACCOUNT_TYPE
-
-
+| FIELD NAME | DESCRIPTION                          | DATA TYPE | LENGTH | SAMPLE        |
+|------------|--------------------------------------|-----------|--------|---------------|
+| USER_ID    | Primary key, unique identifier for users        | Int    | 255    | GETGETG2344   |
+| USERNAME     | Username for login    | Varchar    | 255     | cano      |
+| EMAIL    | User's email address           | Varchar   | 255       | cano@gmail.com          |
+| PASSWORD_HASH     | Encrypted password        | Varchar      | 255       | $3z$21$f5tHR8f9K7... |
+| ROLE     | User role (e.g., employer, job seeker, admin)        | Enum      |        | employer |
+| CREATED_AT    | Timestamp when the user was created        | Datetime      |        | 2024-08-20 12:34:56 |
+| UPDATED_AT    | Timestamp when the user data was last updated        | Datetime      |        | 2024-08-21 08:45:12 |
 
 ### Table 2: LIBRARIAN
 
