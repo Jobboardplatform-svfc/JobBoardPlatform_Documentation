@@ -138,7 +138,7 @@ For the Job Seekers
 
 ## ERD
 
-
+![Untitled Diagram](https://github.com/user-attachments/assets/c9ece665-a5ac-47dd-a572-7d7bd1ae0a42)
 
 
 ## Non Functional Requirements
