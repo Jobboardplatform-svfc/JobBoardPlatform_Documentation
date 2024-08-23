@@ -34,14 +34,92 @@ In addition, this system has a communication tool where the employer and employe
 
 ### User Requirements
 
+There’re two main users for the functionalities of the system and it’s the Job Seeker and the Job Employer.
+
+For the Job Seekers 
+
+* Job Seeker User Registration
+● This will guide the job applicant to create a profile account where the user can add more information, skills, and other    preferences for each individual.
+
+* Functionalities of Job Searching
+● Easy filtering job search where you input keywords, it shows relevant location, 
+  Job types, salary, and what industry are they part of. 
+
+* Job Application Format
+● Making it easier for the applicants where process of application would be
+  minimal where sending credentials will be easier to submit.
+
+* Application Status/Tracking
+● Implementing this function would help the job seeker to monitor all of their 
+ongoing application on the system.
+
+* User Friendly Interface
+● Giving the users an easy to navigate user interface for mobile and desktop and it will help them to locate buttons and      their described purposes.
+
+For the Job Employers
+
+* Employer User Registration and Profile Management
+● This gives the employer the ability to create, edit and manage the company
+  profile and it includes the description of their company, contacts and the
+  graphic logo.
+
+* UI Job Posting Page
+● Ability to create, edit, and manage job postings with detailed descriptions,    requirements, and application               instructions.
+
+* Application Management
+● Employer would have a tool to review applications, shortlist candidates, and communicate with applicants directly through   the platform.
 
 
 ### use case
+
+For the Job Seekers 
+
+	● REGISTER NEW ACCOUNT
+  The job seeker navigates to the registration page, enters personal details (name, email, password), and creates an          account.
+  
+	● CREATE/UPDATE PROFILE
+  After logging in, the job seeker completes their profile by adding a resume, skills, experience, education, and a profile   picture. They can update this information anytime.
+  
+	● UPLOAD RESUME
+  The job seeker uploads their resume in various formats (PDF, Word) and links it to their profile.
+
+  For the Job Employers
+  
+  ● REGISTER NEW ACCOUNT
+  The employer navigates to the registration page, enters company details (company name, email, password), and creates an     account.
+  
+  ● CREATE/UPDATE COMPANY PROFILE
+  After logging in, the employer completes the company profile by adding a logo, company description, and contact             information. They can update this information anytime.
 
 
 ## Database Architecture
 
 ### Data Dictionary
+
+Job Seeker
+
+job_seeker_id	                Each have unique identifier for all the job seekers.
+first_name	                  First name
+last_name                    	Last name
+email	                        Email address
+password	                    Password
+resume	                      Resume(file, docx, pdf)
+location	                    Job seeker’s location
+skills	                      List of all skills
+experience	                  List of previous experiences
+education	                    List of educational qualifications
+
+Job Employer/Company
+
+
+company_id	                  Unique identifier for the company
+name	                        Company name
+description	                  Company description
+industry	                    Industry the company belongs to
+location	                    Company location
+website	                      Company website
+logo	                        Company logo (image)
+
 ### Table 1: ACCOUNT_TYPE
 
 
