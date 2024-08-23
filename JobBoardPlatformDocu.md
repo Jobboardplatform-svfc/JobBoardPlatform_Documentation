@@ -98,26 +98,26 @@ For the Job Seekers
 
 Job Seeker
 
-job_seeker_id	                Each have unique identifier for all the job seekers.
-first_name	                  First name
+job_seeker_id	               	Each have unique identifier for all the job seekers.
+first_name	                First name
 last_name                    	Last name
 email	                        Email address
-password	                    Password
-resume	                      Resume(file, docx, pdf)
-location	                    Job seeker’s location
-skills	                      List of all skills
-experience	                  List of previous experiences
-education	                    List of educational qualifications
+password	                Password
+resume	                      	Resume(file, docx, pdf)
+location	                Job seeker’s location
+skills	                      	List of all skills
+experience	                List of previous experiences
+education	                List of educational qualifications
 
 Job Employer/Company
 
 
-company_id	                  Unique identifier for the company
+company_id	                Unique identifier for the company
 name	                        Company name
-description	                  Company description
-industry	                    Industry the company belongs to
-location	                    Company location
-website	                      Company website
+description	                Company description
+industry	                Industry the company belongs to
+location	                Company location
+website	                      	Company website
 logo	                        Company logo (image)
 
 ### Table 1: ACCOUNT_TYPE
