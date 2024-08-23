@@ -58,6 +58,8 @@ In addition, this system has a communication tool where the employer and employe
 |    |   | B. User Management Module - Login                     | 1. The system must allow the                                                                  |
 |     |            |                                                          |    a. Email                                                                                                                                        |
 |     |            |                                                          |    b. Password                                                                                                                                             |
+|    |   | C. Job Posting                     | 1. The system must allow the                                                                  |
+|     |            |                                                          |    a. Job Details                                                                                                                                   |
 
 
 ### use case
