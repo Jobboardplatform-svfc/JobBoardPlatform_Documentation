@@ -33,42 +33,33 @@ In addition, this system has a communication tool where the employer and employe
 ## Functional Requirements
 
 ### User Requirements
-
-There’re two main users for the functionalities of the system and it’s the Job Seeker and the Job Employer.
-
-For the Job Seekers 
-
-* Job Seeker User Registration
-● This will guide the job applicant to create a profile account where the user can add more information, skills, and other    preferences for each individual.
-
-* Functionalities of Job Searching
-● Easy filtering job search where you input keywords, it shows relevant location, 
-  Job types, salary, and what industry are they part of. 
-
-* Job Application Format
-● Making it easier for the applicants where process of application would be
-  minimal where sending credentials will be easier to submit.
-
-* Application Status/Tracking
-● Implementing this function would help the job seeker to monitor all of their 
-ongoing application on the system.
-
-* User Friendly Interface
-● Giving the users an easy to navigate user interface for mobile and desktop and it will help them to locate buttons and      their described purposes.
-
-For the Job Employers
-
-* Employer User Registration and Profile Management
-● This gives the employer the ability to create, edit and manage the company
-  profile and it includes the description of their company, contacts and the
-  graphic logo.
-
-* UI Job Posting Page
-● Ability to create, edit, and manage job postings with detailed descriptions,    requirements, and application               instructions.
-
-* Application Management
-● Employer would have a tool to review applications, shortlist candidates, and communicate with applicants directly through   the platform.
-
+| No. | Users      | System Features                                          | Requirement                                                                                                                                               |
+|-----|------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Administrator  | A. User Management Module - Approved Company/Employer          | 1. The system must allow the admin to handle the approval of companies or employers                                                      |
+|     |            |                                                          |    a. Pending Approval                                                                                                                                                                                                                                                                          |
+|     |            | B. User Management Module - Company/Employer/Employee Details             | 2. The system must allow the admin to see and handle the companies, employees, and employers details                                                                                           |
+|     |            |                                                          |    a. Company/Employer/Employee ID                                                                                                                                          |
+|     |            |                                                          |    b. Dashboard                                                                                                                             |
+|     |            |                                                          |    c. All job posts                                                                                                                              |
+|     |            |                                                          |    d. All job companies                                                                                                                                     |
+|     |            |                                                          |    e. All Job seekers                                                                                                                                                                                                                                                                    |
+|     |            | C. Report         | 3. The system must allow the admin to make daily, weekly and monthly reports                                                                      |
+|     |            |                                                          |    a. Daily Report                                                                                                                                        |
+|     |            |                                                          |    b. Weekly Report                                                                                                                                           |
+|     |            |                                                          |    c. Monthly Report                                                                                                                                            |
+| 2   | Borrowers  | A. User Management Module - Login                        | 1. The system must allow the borrowers to log in to the mobile application by entering:                                                                    |
+|     |            |                                                          |    a. Email address                                                                                                                                        |
+|     |            |                                                          |    b. Password                                                                                                                                             |
+|     |            | B. OPAC - View                                           | 2. The system must allow the borrowers to view books, including:                                                                                           |
+|     |            |                                                          |    a. Name of the books                                                                                                                                    |
+|     |            |                                                          |    b. Recommended books                                                                                                                                    |
+|     |            |                                                          |    c. Category books                                                                                                                                       |
+|     |            |                                                          |    d. Popular books                                                                                                                                        |
+|     |            | C. OPAC - Search                                         | 3. The system must allow the borrowers to search for books by entering:                                                                                    |
+|     |            |                                                          |    a. Book Name                                                                                                                                            |
+|     |            |                                                          |    b. Author                                                                                                                                               |
+|     |            | D. Circulation Management Module                         | 4. The system must allow the borrowers to borrow the books by generating:                                                                                  |
+|     |            |                                                          |    a. QR Code                                                                                                                                              |
 
 ### use case
 
