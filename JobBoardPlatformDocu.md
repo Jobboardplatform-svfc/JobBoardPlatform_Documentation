@@ -63,7 +63,13 @@ In addition, this system has a communication tool where the employer and employe
 |    |   | D. Company/Job Search                     | 4. The system must allow the                                                                  |
 |     |            |                                                          |    a. Job Name                                                                                                                                        |
 |     |            |                                                          |    b. Company Name                                                                                                                                             |
-
+| 3   | Employee  | A. User Management Module - Register Company/Employer                     | 1. The system must allow the                                                                  |
+|     |            |                                                          |    a. Name                                                                                                                                       |
+|     |            |                                                          |    b. Email                                                                                                                                             |
+|     |            |                                                          |    c. Password                                                                                                                                        |
+|     |            |                                                          |    d. Address                                                                                                                                            |
+|     |            |                                                          |    e. Contact Number                                                                                                                                        |
+|     |            |                                                          |    f. Profile                                                                                                                                            |
 ### use case
 
 For the Job Seekers 
