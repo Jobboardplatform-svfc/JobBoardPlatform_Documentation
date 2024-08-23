@@ -79,7 +79,7 @@ In addition, this system has a communication tool where the employer and employe
 |     |            |                                                          |    a. Job Name                                                                                                                                       |
 |     |            |                                                          |    b. Company Name                                                                                                                                            |
 
-### use case
+### Use Case
 ![JobFinder (1)](https://github.com/user-attachments/assets/d9687d93-9425-41d3-ac48-fda41fcd01d2)
 
 ## Database Architecture
