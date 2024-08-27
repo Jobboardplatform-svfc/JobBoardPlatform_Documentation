@@ -14,9 +14,6 @@ The proposed project Job Board Platform consists of the following features and c
 3. Candidate Profile Management - put their resume online where they can be seen by employers and create a comprehensive profile that can contain their work experience, skills, certificates, and almost every other thing that an employer would want to know about them - profile updates and enhancements - portfolio and media upload
 4. Advanced Search and Filtering - search for jobs based on keywords, location, industry, and other criteria - personalized recommendations - filter and sort options
 5. Interactive Dashboards - view candidate progress, job seekers’ postings, and track recruitment performance - job seeker dashboard
-6. Communication Tools - instant messaging between employee and employer to help in communication during the hiring process - automated notifications
-7. Reporting and Analytics - job post performance reports, candidate engagement, and hiring efficiency reports for instance - data visualization - job seeker insights
-8. User Experience and Interface Design - work on desktops, tablets, and smartphones, in a completely seamless manner - user-friendly navigation - customizable themes
 
 ## Project Scope
 The Job Board Platform System aims to develop an effective job platform for employers and employees. This system allows you to upload jobs as an employer or a company looking for workers, which will help make the job application process easier. As a job seeker, you can create your account profile and upload experiences and achievements. The platform also has an Application Tracking System (ATS) that helps employers manage and track applications from start to finish. It makes it easy for them to sort and find the best candidates quickly.
