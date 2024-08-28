@@ -4,7 +4,7 @@ Group Name: JOBFINDER
 Project Title: JOB BOARD PLATFORM
 
 ## A. Problem Statement:
-In the current job market, employers and job seekers are in a very precarious position. Managers and HR personnel are overwhelmed with the numerous applications they have to handle, and in the process, they end up unable to identify the most competent persons to employ. Meanwhile, for employers and employees, there are still problems with searching through many vacancies, tracking all the submitted applications, and timely communication with potential employers. The absence of a simple and effective system only aggravates these problems: unsuccessful advertising, time-consuming recruitment process, high expenses, and lost chances for representatives of the employer and employee.
+In the current job market, employers and job seekers are in a very precarious position. Managers and HR personnel are overwhelmed with the numerous applications they have to handle, and in the process, they end up unable to identify the most competent persons to employ. Meanwhile, for employers and employees, there are still problems with searching through many vacancies, tracking all the submitted applications, and timely communication with potential employers, according to Allal-Chérif et al. (2021). The absence of a simple and effective system only aggravates these problems: unsuccessful advertising, time-consuming recruitment process, high expenses, and lost chances for representatives of the employer and employee.
 
 It is towards the realization of these challenges that this project seeks to design and implement a job board platform that will facilitate easy employers-employee matches and job hunters to secure their respective jobs.
 
