@@ -63,6 +63,7 @@ To develop a JOB BOARD PLATFORM with a comprehensive and efficient solution that
 ## G. Estimated Project Duration:
 
 Prepared by:
+Amador, Kaysie Kane
 Cano, Roerenz Joseph B.
 Idanan, Rodney C.
 Inductivo, Walter Mark B.
