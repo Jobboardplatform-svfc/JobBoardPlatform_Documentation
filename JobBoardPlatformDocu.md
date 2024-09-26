@@ -143,7 +143,7 @@ In addition, this system has a communication tool where the employer and employe
 For Best View
 https://www.figma.com/design/EL79YoOrtIXk6J8amDWd9f/Job-Board-Platform-ERD?node-id=0-1&t=SDuRRF0TVtsGurNl-0
 
-![JobBoardPlatformERD](https://github.com/user-attachments/assets/833b3c57-520f-4b07-bc33-7fca58219506)
+![JobBoardPlatformERD-2024-09-26T17_05_20](https://github.com/user-attachments/assets/ae3efcb8-2d50-4ae5-ad9a-f711668f52d6)
 
 
 ## Non Functional Requirements
