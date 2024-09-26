@@ -40,7 +40,6 @@ In addition, this system has a communication tool where the employer and employe
 |     |            |                                                          |    c. All job posts                                                                                                                              |
 |     |            |                                                          |    d. All job companies                                                                                                                                     |
 |     |            |                                                          |    e. All Job seekers                                                                                                                                                                                                                                                                    |
-|     |            |                                                          |    f. Skills and work experience                                                                                                                                                                                                                                                                    |
 |     |            | C. Report         | 3. The system must allow the admin to make daily, weekly and monthly reports                                                                      |
 |     |            |                                                          |    a. Daily Report                                                                                                                                        |
 |     |            |                                                          |    b. Weekly Report                                                                                                                                           |
@@ -58,11 +57,9 @@ In addition, this system has a communication tool where the employer and employe
 |     |            |                                                          |    b. Password                                                                                                                                             |
 |    |   | C. Job Posting                     | 3. The system must allow the company/employer to post a job                                                                  |
 |     |            |                                                          |    a. Job Details                                                                                                                                   |
-|     |            |                                                          |    b. Skills and work experience                                                                                                                                   |
 |    |   | D. Company/Job Search                     | 4. The system must allow the company/employer to search for a company and job                                                                  |
 |     |            |                                                          |    a. Job Name                                                                                                                                        |
 |     |            |                                                          |    b. Company Name                                                                                                                                             |
-|     |            |                                                          |    c. Skills and work experience                                                                                                                                             |
 | 3   | Employee  | A. User Management Module - Register Company/Employer                     | 1. The system must allow the employee to create their account                                                                  |
 |     |            |                                                          |    a. Name                                                                                                                                       |
 |     |            |                                                          |    b. Email                                                                                                                                             |
@@ -70,17 +67,14 @@ In addition, this system has a communication tool where the employer and employe
 |     |            |                                                          |    d. Address                                                                                                                                            |
 |     |            |                                                          |    e. Contact Number                                                                                                                                        |
 |     |            |                                                          |    f. Profile                                                                                                                                            |
-|     |            |                                                          |    f. Skills and work experience                                                                                                                                            |
 |    |   | B. User Management Module - Login                    | 2. The system must allow the employee to login using their email and password                                                                  |
 |     |            |                                                          |    a. Email                                                                                                                                        |
 |     |            |                                                          |    b. Password                                                                                                                                             |
 |    |   | C. Job Application                    | 3. The system must allow the employee to apply for a job                                                                  |
-|     |            |                                                          |    a. Profile/Resume                                                                                                                                        |
-|     |            |                                                          |    b. Skills and work experience                                                                                                                                             |                                                         
+|     |            |                                                          |    a. Profile/Resume                                                                                                                                        |                                                      
 |    |   | D. Company/Job Search                    | 4. The system must allow the employee to search for a company and job                                                                  |
 |     |            |                                                          |    a. Job Name                                                                                                                                       |
 |     |            |                                                          |    b. Company Name                                                                                                                                            |
-|     |            |                                                          |    c. Skills and work experience                                                                                                                                            |
 
 ### Use Case
 ![JobFinder (1)](https://github.com/user-attachments/assets/d9687d93-9425-41d3-ac48-fda41fcd01d2)
@@ -97,6 +91,8 @@ In addition, this system has a communication tool where the employer and employe
 | EMAIL    | User's email address           | Varchar   | 255       | idanan@gmail.com          |
 | PASSWORD_HASH     | Encrypted password        | Varchar      | 255       | $3z$21$f5tHR8f9K7... |
 | ROLE     | User role (e.g., employer, job seeker, admin)        | Enum      |        | employer |
+| SKILLS     | Skills possessed by the user        | Text      |        | HTML, Python, Angular |
+| WORK_EXPERIENCE     | 	Description of work experience        | Text      |        | 1 year as a web developer |
 | CREATED_AT    | Timestamp when the user was created        | Datetime      |        | 2024-08-20 12:34:56 |
 | UPDATED_AT    | Timestamp when the user data was last updated        | Datetime      |        | 2024-08-21 08:45:12 |
 
@@ -110,7 +106,9 @@ In addition, this system has a communication tool where the employer and employe
 | JOB_DESCRIPTION     | Detailed description of the job        | Text      |        | We are looking for a skilled developer... |
 | LOCATION     | Location of the job        | Varchar      | 255       | Philippines, Caloocan City |
 | CATEGORY    | Job category or industry        | Varchar      | 255       | Information Technology |
-| SALARY_RANGE    | Salary range for the position        | Varchar      | 50       | ₱45,000 - ₱65,000 |
+| INDUSTRY    | Industry of the job posting        | Varchar      | 255       | Web Developer |
+| MIN_SALARY    | Minimum salary for the position        | Decimal      |        | ₱31,000 |
+| MAX_SALARY    | Maximum salary for the position        | Decimal      |        | ₱852,000 |
 | CREATED_AT    | Timestamp when the job was posted        | Datetime      |        | 2024-08-20 09:15:30 |
 | UPDATED_AT    | Timestamp when the job posting was last updated        | Datetime      |        | 2024-08-21 10:00:00 |
 
@@ -123,6 +121,8 @@ In addition, this system has a communication tool where the employer and employe
 | JOB_SEEKER_ID    | Foreign key, references Users (job seeker)           | Int   | 255       | LJULGUL7899          |
 | RESUME     | Uploaded resume file        | Blob      |        | Binary Data |
 | STATUS     | Application status (e.g., applied, under review)        | Enum      |        | under review |
+| SKILLS     | Skills relevant to the application        | Text      |        | HTML, Python, Angular |
+| WORK_EXPERIENCE     | 	Description of work experience relevant to the application        | Text      |        | 1 year as a web developer |
 | APPLIED_AT    | Timestamp when the application was submitted        | Datetime      |        | 2024-08-20 14:22:45 |
 | UPDATED_AT    | Timestamp when the application status was updated        | Datetime      |        | 2024-08-21 11:30:00 |
 
