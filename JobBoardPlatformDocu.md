@@ -147,9 +147,9 @@ Employee
 ## ERD
 
 For Best View
-https://www.figma.com/design/EL79YoOrtIXk6J8amDWd9f/Job-Board-Platform-ERD?node-id=0-1&t=SDuRRF0TVtsGurNl-0
+https://lucid.app/lucidchart/89a84b37-0b70-4bf7-ac6d-d4cdd688faeb/edit?viewport_loc=-2388%2C-927%2C5120%2C2368%2C0_0&invitationId=inv_fb8f429c-cc13-4b31-aa7b-c3fcc65c95ff
 
-![JobBoardPlatformERD-2024-09-26T17_05_20](https://github.com/user-attachments/assets/ae3efcb8-2d50-4ae5-ad9a-f711668f52d6)
+![JBP_img](https://github.com/user-attachments/assets/7d4eddee-1bd3-4bdc-9d36-63b25c3c10fc)
 
 
 ## Non Functional Requirements
