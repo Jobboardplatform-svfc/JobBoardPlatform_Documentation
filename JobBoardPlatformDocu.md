@@ -78,11 +78,11 @@ In addition, this system has a communication tool where the employer and employe
 
 ### Use Case
 ![JobFinder (1)](https://github.com/user-attachments/assets/d9687d93-9425-41d3-ac48-fda41fcd01d2)
-Admin
-
-Employer
-
-Employee
+  Admin - The admin will manage jobs, employers, employees and can provide reports on the number of jobs and workers.
+  
+  Employer - The employer will manage job posting and job application of employees. They can also look for jobs trends.
+  
+  Employee - The employee can look for a job and apply for a job.
 
 ## Database Architecture
 
