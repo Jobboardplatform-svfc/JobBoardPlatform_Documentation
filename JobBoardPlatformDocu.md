@@ -78,6 +78,9 @@ In addition, this system has a communication tool where the employer and employe
 
 ### Use Case
 ![JobFinder (1)](https://github.com/user-attachments/assets/d9687d93-9425-41d3-ac48-fda41fcd01d2)
+## Admin
+## Employer
+## Employee
 
 ## Database Architecture
 
