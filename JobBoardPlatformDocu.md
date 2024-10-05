@@ -147,9 +147,9 @@ In addition, this system has a communication tool where the employer and employe
 ## ERD
 
 For Best View
-https://lucid.app/lucidchart/89a84b37-0b70-4bf7-ac6d-d4cdd688faeb/edit?viewport_loc=-2388%2C-927%2C5120%2C2368%2C0_0&invitationId=inv_fb8f429c-cc13-4b31-aa7b-c3fcc65c95ff
+https://lucid.app/lucidchart/89a84b37-0b70-4bf7-ac6d-d4cdd688faeb/edit?invitationId=inv_fb8f429c-cc13-4b31-aa7b-c3fcc65c95ff&page=0_0#
 
-![image](https://github.com/user-attachments/assets/81befa53-1584-4065-9049-ccf837c7d981)
+![image](https://github.com/user-attachments/assets/c62f5969-c35c-47e2-9b0a-2caa8ea4b1fc)
 
 
 ## Non Functional Requirements
